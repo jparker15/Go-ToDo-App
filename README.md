@@ -10,7 +10,7 @@ Go To Do App
 
 ### Steps to Build
 ## Initialize Go app
-go mod init github.com/tomdoestech/go-react-todo
+go mod init github.com/jparker15/Go-ToDo-App 
 
 ## Install Fiber v2
 go get -u github.com/gofiber/fiber/v2
