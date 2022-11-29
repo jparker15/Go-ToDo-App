@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.5",
     "@mantine/core": "^5.8.4",
     "@mantine/hooks": "^5.8.4",
     "@primer/octicons-react": "^17.9.0",
